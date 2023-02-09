@@ -1,3 +1,3 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+# PersonaAI 
+### Ai Generated user personas
+User personas in just a single click!
